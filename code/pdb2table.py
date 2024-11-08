@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 
 # Splits each line in columns by position
 def split_ATOM(raw):
