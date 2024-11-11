@@ -1,0 +1,2 @@
+2023-01-05 12:39:11,183 CRITICAL:main.py:782:main_driver:Found gap in biomolecule structure for atom ATOM      5  CO  ALA     1     -18.648  24.267 -24.062  0.0000 0.0000
+2023-01-05 12:39:11,185 CRITICAL:main.py:783:main_driver:Giving up.
